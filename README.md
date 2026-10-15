@@ -1,47 +1,52 @@
-# Central de Suporte Técnico
+# 💻 Central de Suporte Técnico | Help Desk N1
 
-Projeto de estudos voltado à documentação e resolução de chamados comuns de suporte técnico N1 (Help Desk).
+Projeto educacional voltado à prática de diagnóstico, investigação e documentação de problemas comuns de informática, simulando situações encontradas na rotina de um profissional de suporte técnico N1.
 
-## Objetivo
+## 🎯 Objetivo
 
-Praticar o raciocínio de diagnóstico, organização de chamados e documentação de procedimentos técnicos utilizados no atendimento a usuários.
+Desenvolver habilidades práticas de suporte técnico por meio de estudos de caso, organização de chamados e elaboração de procedimentos de diagnóstico e solução.
 
-## Tecnologias e conhecimentos
+## 🛠️ Conhecimentos praticados
 
-- Windows
-- Hardware de computadores
-- Instalação de drivers
-- Configuração de impressoras
-- Diagnóstico de falhas
+- Windows 11 e ferramentas de diagnóstico
+- Identificação de possíveis falhas de software e hardware
+- Diagnóstico de problemas de desempenho
+- Configuração e diagnóstico de impressoras
 - Fundamentos de redes de computadores
+- Investigação de problemas técnicos
+- Documentação de chamados de suporte
 
-## Chamados documentados
+## 📋 Chamados documentados
 
-| Chamado | Problema |
-|---|---|
-| CH-001 | Computador lento |
-| CH-002 | Impressora não imprime |
-| CH-003 | Sem conexão com a internet |
-| CH-004 | Driver de áudio ausente |
-| CH-005 | Computador não inicia corretamente |
+| ID | Problema | Tipo |
+|---|---|---|
+| CH-001 | Computador lento | Estudo de caso simulado |
+| CH-002 | Impressora não imprime | Estudo de caso simulado |
+| CH-003 | Computador sem conexão com a internet | Estudo de caso simulado |
 
-## Metodologia
+## 🔎 Metodologia de diagnóstico
 
-Para cada chamado, serão registrados:
+Cada chamado é organizado seguindo estas etapas:
 
-1. Descrição do problema.
-2. Sintomas relatados pelo usuário.
-3. Verificações realizadas.
-4. Possível causa.
-5. Procedimento de solução.
-6. Resultado esperado.
+1. Descrição do problema relatado.
+2. Identificação dos sintomas.
+3. Verificações iniciais.
+4. Levantamento de hipóteses.
+5. Planejamento dos testes de diagnóstico.
+6. Registro das possíveis ações corretivas.
+7. Validação da solução e documentação do resultado.
 
-## Status do projeto
+## 📌 Status do projeto
 
-Em desenvolvimento — projeto educacional para prática de suporte técnico e construção de portfólio profissional.
+**Em desenvolvimento.**
 
-## Autor
+Novos estudos de caso serão adicionados conforme o avanço dos estudos e a prática de novos procedimentos de suporte técnico.
 
-Kelven Klay Costa de Oliveira
+> **Nota:** Os chamados atuais são cenários fictícios para fins educacionais. Testes não executados e resultados não confirmados são identificados como tais.
 
-[LinkedIn](https://www.linkedin.com/in/kelven-costa-5542b13ba/)
+## 👨‍💻 Autor
+
+**Kelven Klay Costa de Oliveira**
+
+- [LinkedIn](https://www.linkedin.com/in/kelven-costa-5542b13ba/)
+- [GitHub](https://github.com/kelvencostadev)
